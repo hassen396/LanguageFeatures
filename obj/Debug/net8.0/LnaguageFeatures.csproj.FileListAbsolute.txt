@@ -56,3 +56,32 @@
 /Users/smile/InfoTern/ASP.NET/Pro ASP.NET core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.pdb
 /Users/smile/InfoTern/ASP.NET/Pro ASP.NET core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.genruntimeconfig.cache
 /Users/smile/InfoTern/ASP.NET/Pro ASP.NET core/LanguageFeatures/obj/Debug/net8.0/ref/LnaguageFeatures.dll
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/appsettings.Development.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/appsettings.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/global.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/LnaguageFeatures
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/LnaguageFeatures.deps.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/LnaguageFeatures.runtimeconfig.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/LnaguageFeatures.dll
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/bin/Debug/net8.0/LnaguageFeatures.pdb
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.AssemblyInfoInputs.cache
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.AssemblyInfo.cs
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.csproj.CoreCompileInputs.cache
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.MvcApplicationPartsAssemblyInfo.cache
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.RazorAssemblyInfo.cache
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.RazorAssemblyInfo.cs
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.sourcelink.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets.build.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets.development.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets/msbuild.LnaguageFeatures.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets/msbuild.build.LnaguageFeatures.props
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LnaguageFeatures.props
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LnaguageFeatures.props
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/scopedcss/bundle/LnaguageFeatures.styles.css
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.dll
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/refint/LnaguageFeatures.dll
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.pdb
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/LnaguageFeatures.genruntimeconfig.cache
+/Users/smile/InfoTern/ASP.NET Core/LanguageFeatures/obj/Debug/net8.0/ref/LnaguageFeatures.dll
